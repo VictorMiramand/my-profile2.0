@@ -1,0 +1,37 @@
+.img-cicrle {
+	border-radius: 60%;
+
+}
+
+.follow {
+	text-align: center;
+	padding: 40px;
+	margin: 40px;
+	box-shadow: 0px 10px 30px rgba(0,0,0,0.3);
+	border-radius: 7px;
+}
+
+.presentation {
+ 	text-align: center;
+	padding: 40px;
+	margin: 40px;
+	box-shadow: 0px 10px 30px rgba(0,0,0,0.3);
+	border-radius: 7px;s
+	border: 2px solid rgb(13, 47, 118);
+}
+
+.link {
+	color: rgb(208, 153, 230);
+}
+
+.container {
+	background-color:rgb(208, 153, 230);
+}
+
+div {
+	background-color: lightcyan;
+	padding: 40px;
+	margin: 40px;
+	box-shadow: 0px 10px 30px rgba(0,0,0,0.3);
+	border-radius: 7px;
+}

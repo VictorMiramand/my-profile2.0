@@ -1,0 +1,19 @@
+/*Importing all components file*/
+@import url("components/button.css");
+@import url("components/avatar.css");
+@import url("components/banner.css");
+
+/*General Style rules for fonts and colors*/
+
+h1, h3 { 
+color: rgb(13, 47, 118);
+ }
+
+h2 {
+	color: rgb(128, 73, 150);
+}
+
+
+
+
+
